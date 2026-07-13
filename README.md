@@ -39,7 +39,7 @@ These projects are designed to reflect real-world business scenarios commonly ha
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| 📦 Inventory Management & MIS Dashboard | 🚧 In Progress | Inventory tracking, stock monitoring, reorder analysis, supplier performance, and inventory KPIs. |
+| 📦 Inventory Management & MIS Dashboard | ✅ Done | Inventory tracking, stock monitoring, reorder analysis, supplier performance, and inventory KPIs. |
 | 🛒 Procurement MIS Dashboard | 🔜 Planned | Purchase order analysis, supplier evaluation, procurement KPIs, and spending insights. |
 | 👥 HR MIS Dashboard | 🔜 Planned | Employee reporting, attendance, workforce analytics, and HR KPIs. |
 | 💰 Finance MIS Dashboard | 🔜 Planned | Revenue, expenses, profitability, and financial performance reporting. |
@@ -117,9 +117,9 @@ I enjoy transforming raw data into actionable insights through interactive dashb
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** *(Add your LinkedIn profile link)*
-- **GitHub:** https://github.com/YourUsername
-- **Portfolio:** *(Add your portfolio website link once deployed)*
+- **LinkedIn:** **https://www.linkedin.com/in/pranav-ghodke-956971267/**
+- **GitHub:** **https://github.com/Pranav29082003**
+- **Portfolio:** **https://pranav29082003.github.io/portfolio/**
 
 ---
 
